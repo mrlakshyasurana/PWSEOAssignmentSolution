@@ -1,0 +1,30 @@
+Q.5. Define Favicon and give an illustrative example.
+
+Ans:
+
+Favicon meaning is a file with one or more small icons that represents a website or web page in web browsers. It can be seen in places like tabs, address bars, history results, and bookmarks. The term favicon is short for "favorite icon" because it was first used in the favorites or bookmarks of Internet Explorer.
+
+Example:
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BookMovie - Your Online Moviestore</title>
+
+    
+
+    <!-- Favicon -->
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+</body>

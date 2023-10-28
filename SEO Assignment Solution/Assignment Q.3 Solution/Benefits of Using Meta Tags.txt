@@ -1,0 +1,11 @@
+Q.3.What are the benefits of using meta tags?
+
+Ans:
+
+Meta tags are HTML components that provide metadata about a web page. They are always present inside the <Head> tag and are utilized to portray page descriptions, certain keywords, author of the document, viewport settings, determining character sets, and so on. Meta tags play a crucial role in search engine optimization (SEO) by helping search engines understand the context and relevance of the page. This improves the visibility of the page in the search results and increases the chances of attracting more traffic to the website.
+
+Some of the benefits of using meta tags are:
+
+Improved search engine visibility: Meta tags can help search engines understand what a page is about, which can lead to better search engine rankings and increased traffic.
+Better user experience: Meta tags can provide users with more information about a page’s content, which can improve click-through rates and overall user experience 
+It’s important to note that meta tags should be used judiciously and not be overused or misused. Overusing meta tags or using them inappropriately can lead to negative consequences such as lower search engine rankings or even being penalized by search engines.
